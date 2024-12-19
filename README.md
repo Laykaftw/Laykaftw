@@ -1,8 +1,8 @@
 ## Hi there, I'm Ben Sassi Azer! 👋
 
 - 👀 I’m interested in Car Racing, Football, Gym, and Coding.
-- 🌱 I’m currently learning React Native.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me: You can reach me on [LinkedIn](https://www.linkedin.com/in/azer-bensassi/).
 
 <!---
